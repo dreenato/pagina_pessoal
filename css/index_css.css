@@ -1,0 +1,28 @@
+.menu{
+    background-color: white;
+}
+.menu ul{
+    display: flex;
+    justify-content: space-around;
+}
+.menu li{
+
+}
+a:hover{
+    text-decoration: underline;
+    color: cadetblue;
+}
+body{
+    background-image: url("https://static3.tcdn.com.br/img/img_prod/228568/papel_de_parede_branco_suave_sb3311700_8993_1_20161024130003.jpg");
+    background-size: auto 100vh;
+    height: 100vh;
+    font-family: Arial;
+    font-size: large;
+}
+.site_title, .site_subtitle{
+    text-align: center;
+    font-size: 30px;
+}
+.site_subtitle{
+    font-style: italic;
+}
